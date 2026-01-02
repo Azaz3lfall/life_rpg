@@ -1,6 +1,5 @@
 # life_rpg
-
-A new Flutter project.
+aplicativo para desenvolver hábitos como jogo
 
 ## Getting Started
 
